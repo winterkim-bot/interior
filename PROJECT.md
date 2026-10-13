@@ -13,7 +13,7 @@
 
 ## 진행 원칙
 - 레퍼런스 이미지는 `references/current-home`, `references/hanok` 두 폴더에 정리
-- 제품 리스트는 다음 단계에서 별도로 작성 예정
+- 제품 리스트: Google 스프레드시트 "구로두산 인테리어 제품 리스트" (https://docs.google.com/spreadsheets/d/195sV_75aPQboAlcE3LzG1rughJMF1ZeY16mMP6Y8KyE/edit)
 - 결정 사항과 예산은 이 문서에 계속 누적 기록
 
 ## 미정 / 확인 필요
